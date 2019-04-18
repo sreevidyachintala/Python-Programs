@@ -16,3 +16,10 @@ download python software- [clickhere](https://www.python.org/downloads/)
 ## Task-4 Multiplication Tables [open program here](https://github.com/sreevidyachintala/Python-Programs/blob/master/multable.py)
 
 ## Task-5 GreatestCommon Devisior of two numbers[open program here](https://github.com/sreevidyachintala/Python-Programs/blob/master/gcd.py)
+
+
+# Day-2
+
+## Task-1:Fibonacci series generation[Open program here](https://github.com/sreevidyachintala/Python-Programs/blob/master/fib.py)
+
+## Task-2:Prime number Generation[open program here](https://github.com/sreevidyachintala/Python-Programs/blob/master/primenum.py)
