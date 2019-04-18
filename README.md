@@ -22,4 +22,4 @@ download python software- [clickhere](https://www.python.org/downloads/)
 
 ## Task-1:Fibonacci series generation[Open program here](https://github.com/sreevidyachintala/Python-Programs/blob/master/fib.py)
 
-## Task-2:Prime number Generation[open program here](https://github.com/sreevidyachintala/Python-Programs/blob/master/primenum.py)
+## Task-2:Prime number Generation[open program here](https://github.com/sreevidyachintala/Python-Programs/blob/master/prime.py)
